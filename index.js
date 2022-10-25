@@ -15,11 +15,21 @@ app.get('/categories', (req, res) => {
     res.send(categories);
 });
 
-app.get('/categories/:id', (req, res) => {
+app.get('/category/:id', (req, res) => {
     const id = req.params.id;
     const category = courses.filter(ct => ct.category_id === id);
     res.send(category);
 });
+
+app.get('/courses', (req, res) => {
+    res.send(courses);
+});
+
+app.get('/course/:id', (req, res) => {
+    const id = req.params.id;
+    const course = courses.find(cs => cs.course_id === id);
+    res.send(course);
+})
 
 app.listen(port, () => {
     console.log(`Server is running at ${port}`);

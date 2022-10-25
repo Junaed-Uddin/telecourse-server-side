@@ -1,6 +1,6 @@
 [
   {
-    "course_id:": "001",
+    "course_id": "001",
     "course_name": "MERN Stack Development",
     "description": "It will provide you a practical experience on full-stack web development. The course will enhance your knowledge about front-end and back-end servers, MongoDB database and React library. With the help of it, you will be able to develop web and hybrid mobile apps.",
     "category": "Web Development",
@@ -14,29 +14,31 @@
     "photo": "https://markovate.b-cdn.net/wp-content/uploads/2022/08/Top-10-Reasons-To-Choose-MERN-Stack-Development-For-Your-Next-Project_-1280x720px@2x.png",
     "state": "free",
     "lectures": 27,
+    "duration":"4hr",
     "enrolled": "2.5k",
     "level": "Intermediate"
   },
   {
-    "course_id:": "002",
+    "course_id": "002",
     "course_name": "Django Web Development",
     "description": "In this course, you will learn how Django communicates with a database through model objects. You will explore Object-Relational Mapping (ORM) for database access and how Django models implement this pattern. We will review the Object-Oriented (OO) pattern in Python.",
     "category": "Web Development",
     "category_id": "01",
     "instructor": {
       "name": "Jessica Milkon",
-      "img": "https://images.unsplash.com/photo-1438761681033-6461ffad8d80?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1170&q=80"
+      "img": "https://images.unsplash.com/photo-1499887142886-791eca5918cd?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
     },
     "rating": { "number": 4.3, "badge": "Excellent" },
     "thumbnail": "https://static.djangoproject.com/img/logos/django-logo-negative.png",
     "photo": "https://ntu.edu.pk/ehunar/wp-content/uploads/2021/08/1_slHeZngyeUr7ypEz7MNL5w.png",
     "state": "40$",
     "lectures": 50,
+    "duration":"3hr",
     "enrolled": "1.5k",
     "level": "Intermediate"
   },
   {
-    "course_id:": "003",
+    "course_id": "003",
     "course_name": "Microsoft C# & .NET Core",
     "description": "If you are thinking about developing dynamic web applications, it is essential to learn about the latest technologies. By enrolling in our .Net Core course, you will gain the necessary skill-set required to build and deploy robust web apps for Windows, web services, websites, and mobile.",
     "category": "Web Development",
@@ -50,11 +52,12 @@
     "photo": "https://res.cloudinary.com/practicaldev/image/fetch/s--OItHtgKv--/c_imagga_scale,f_auto,fl_progressive,h_900,q_auto,w_1600/https://dev-to-uploads.s3.amazonaws.com/i/r6iwbj5sp2u22ye8lzfn.png",
     "state": "35$",
     "lectures": 40,
+    "duration":"2hr",
     "enrolled": "1.2k",
     "level": "Beginner"
   },
   {
-    "course_id:": "004",
+    "course_id": "004",
     "course_name": "PhP & Laravel Web Framework",
     "description": "Laravel is a PHP framework for rapid development.This course provides a great Laravel tutorial for beginners.This course will give you all the essentials you need to know to get up and running with Laravel. You will learn how to download and install Laravel, how to use Composer to install PHP classes, how to use Artisan, how to work with Routes, Views, Blade templates, Controllers and Models.",
     "category": "Web Development",
@@ -68,11 +71,12 @@
     "photo": "https://cloudonhire.com/wp-content/uploads/2020/01/Laravel_Framework-copy.png",
     "state": "35$",
     "lectures": 30,
+    "duration":"5hr",
     "enrolled": "4.2k",
     "level": "Pro"
   },
   {
-    "course_id:": "005",
+    "course_id": "005",
     "course_name": "Java Spring Boot(Hibernate, Spring)",
     "description": "This course offers hands-on experience with Spring and its major features, including configuration, data access, web and REST applications, testing, AOP and security. It also covers Spring Boot features such as auto-configuration, actuator, and Spring Boot testing.",
     "category": "Web Development",
@@ -86,11 +90,12 @@
     "photo": "https://miro.medium.com/max/1400/1*vFiGOTV1S8yz0RTIQteTjw.png",
     "state": "50$",
     "lectures": 25,
+    "duration":"6hr",
     "enrolled": "1.1k",
     "level": "Intermediate"
   },
   {
-    "course_id:": "006",
+    "course_id": "006",
     "course_name": "C & C++",
     "description": "Understand and use the basic programming constructs of C/C++ Manipulate various C/C++ datatypes, such as arrays, strings, and pointers. Isolate and fix common errors in C++ programs. Use memory appropriately, including proper allocation/deallocation procedures.",
     "category": "Languages",
@@ -104,11 +109,12 @@
     "photo": "https://www.ambiciative.com/assets/img/cimg.jpg",
     "state": "free",
     "lectures": 38,
+    "duration":"10hr",
     "enrolled": "5.1k",
     "level": "Pro"
   },
   {
-    "course_id:": "007",
+    "course_id": "007",
     "course_name": "Python Programming",
     "description": "Python is a computer programming language often used to build websites and software, automate tasks, and conduct data analysis. Python is a general-purpose language, meaning it can be used to create a variety of different programs and isn't specialized for any specific problems.",
     "category": "Languages",
@@ -122,11 +128,12 @@
     "photo": "https://w7.pngwing.com/pngs/441/911/png-transparent-learning-to-program-using-python-programming-language-computer-programming-the-python-papers-anthology-computer-text-computer-logo.png",
     "state": "free",
     "lectures": 38,
+    "duration":"9hr",
     "enrolled": "6.1k",
     "level": "Intermediate"
   },
   {
-    "course_id:": "008",
+    "course_id": "008",
     "course_name": "Java Programming",
     "description": "This course introduces computer programming using the JAVA programming language with object-oriented programming principles. Emphasis is placed on event-driven programming methods, including creating and manipulating objects, classes, and using object-oriented tools such as the class debugger. ",
     "category": "Languages",
@@ -140,11 +147,12 @@
     "photo": "https://venturebeat.com/wp-content/uploads/2015/12/oracle-java-e1450723340931.jpg?w=1200&strip=all",
     "state": "15$",
     "lectures": 50,
+    "duration":"12hr",
     "enrolled": "5.6k",
     "level": "pro"
   },
   {
-    "course_id:": "009",
+    "course_id": "009",
     "course_name": "Artificial Intelligence",
     "description": "The Artificial Intelligence courses that we discussed are offered in various streams, countries and institutes. The exact syllabus will always differ, based on the course you’re pursuing and the college or university you’re studying in, but each one of these courses focuses on the same common subjects.",
     "category": "Machine Learning",
@@ -158,11 +166,12 @@
     "photo": "https://www.springboard.com/blog/wp-content/uploads/2022/02/is-ai-hard-to-learn-scaled.jpg",
     "state": "60$",
     "lectures": 50,
+    "duration":"5hr",
     "enrolled": "2.6k",
     "level": "Intermediate"
   },
   {
-    "course_id:": "010",
+    "course_id": "010",
     "course_name": "Deep Learning",
     "description": "In the first course of the Deep Learning Specialization, you will study the foundational concept of neural networks and deep learning. By the end, you will be familiar with the significant technological trends driving the rise of deep learning; build, train, and apply fully connected deep neural networks.",
     "category": "Machine Learning",
@@ -176,14 +185,15 @@
     "photo": "https://venturebeat.com/wp-content/uploads/2015/12/oracle-java-e1450723340931.jpg?w=1200&strip=all",
     "state": "46$",
     "lectures": 60,
+    "duration":"6hr",
     "enrolled": "3.6k",
     "level": "pro"
   },
   {
-    "course_id:": "011",
-    "course_name": "Basic Cyber Security",
+    "course_id": "011",
+    "course_name": "Basic Cloud Security",
     "description": "This course introduces the concepts and understanding of the field of computer security and how it relates to other areas of information technology. Topics include security threats, hardening systems, securing networks, cryptography and organizational security policies.",
-    "category": "Cyber Security",
+    "category": "Cybersecurity",
     "category_id": "04",
     "instructor": {
       "name": "David Deprio",
@@ -194,15 +204,16 @@
     "photo": "https://www.ict.eu/sites/corporate/files/images/Cyber%20security%20header_1920x1280px%20%281%29.jpg",
     "state": "15$",
     "lectures": 20,
+    "duration":"8hr",
     "enrolled": "4.6k",
     "level": "Intermediate"
   },
   {
-    "course_id:": "012",
+    "course_id": "012",
     "course_name": "Basic Data Structures",
     "description": "An overview of data structure concepts, arrays, stack, queues, trees, and graphs. Discussion of various implementations of these data objects, programming styles, and run-time representations. Course also examines algorithms for sorting, searching and some graph algorithms.",
     "category": "Data Structures",
-    "category_id": "04",
+    "category_id": "05",
     "instructor": {
       "name": "David Deprio",
       "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
@@ -212,11 +223,12 @@
     "photo": "https://www.techyloud.com/wp-content/uploads/2022/02/Data-Structure-assignement.jpg",
     "state": "20$",
     "lectures": 25,
+    "duration":"16hr",
     "enrolled": "3.6k",
     "level": "Beginner"
   },
   {
-    "course_id:": "013",
+    "course_id": "013",
     "course_name": "Data Science",
     "description": "The Best Data Science Program outline is essentially the same, no matter if you choose to take an online course, a course in a traditional classroom, or a full-time university degree. Each course's projects could be different. Any data science course syllabus must, however, include the fundamental ideas of data science.",
     "category": "Machine Learning",
@@ -230,11 +242,12 @@
     "photo": "https://d1m75rqqgidzqn.cloudfront.net/wp-data/2019/09/11134058/What-is-data-science-2.jpg",
     "state": "80$",
     "lectures": 120,
+    "duration":"14hr",
     "enrolled": "1.6k",
     "level": "Intermediate"
   },
   {
-    "course_id:": "014",
+    "course_id": "014",
     "course_name": "Advanced JavaScript",
     "description": "The only course you need to become a JavaScript developer - 45 JavaScript projects, ES6, JSON, AJAX & Build games, web apps and websites in JavaScript. So, this tutorial will teach you JavaScript from basic to advanced.",
     "category": "Languages",
@@ -248,7 +261,65 @@
     "photo": "https://1.bp.blogspot.com/-pdqcVeIQp64/XDX7TzdRdcI/AAAAAAAAM8E/ZmGuB6caZqIGmEflGHcj3zgXJJrmqRLdgCLcBGAs/w1200-h630-p-k-no-nu/Free%2BCourses%2Bto%2Blearn%2BJavaScript.jpg",
     "state": "60$",
     "lectures": 130,
+    "duration":"12hr",
     "enrolled": "8.6k",
+    "level": "Pro"
+  },
+  {
+    "course_id": "015",
+    "course_name": "Advanced Network Security",
+    "description": "In this online cybersecurity course, you'll learn to monitor and control unauthorized access, misuse, and unwanted modification in your networking system. You'll learn how to prevent network attacks and identify gaps in security policy, guaranteeing privacy.",
+    "category": "Cybersecurity",
+    "category_id": "04",
+    "instructor": {
+      "name": "Arms Jyon",
+      "img": "https://images.unsplash.com/photo-1628157588553-5eeea00af15c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+    },
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "thumbnail": "https://www.dbcomp.ie/wp-content/uploads/2021/01/network-security.jpg",
+    "photo": "https://wallpapercave.com/wp/wp2691571.jpg",
+    "state": "40$",
+    "lectures": 50,
+    "duration":"8hr",
+    "enrolled": "2.6k",
+    "level": "Pro"
+  },
+  {
+    "course_id": "016",
+    "course_name": "Fundamental Operating Systems",
+    "description": "This course examines the important problems in operating system design and implementation. The operating system provides an established, convenient, and efficient interface between user programs and the bare hardware of the computer on which they run.",
+    "category": "Operating Systems",
+    "category_id": "06",
+    "instructor": {
+      "name": "pyon jirao",
+      "img": "https://images.unsplash.com/photo-1628157588553-5eeea00af15c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+    },
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "thumbnail": "https://techiegenie.com/wp-content/uploads/2020/12/Top-10-Best-Operating-Systems-for-Laptops-and-Computers-4.jpg",
+    "photo": "https://wallpaperaccess.com/full/4910986.jpg",
+    "state": "40$",
+    "lectures": 50,
+    "duration":"10.5hr",
+    "enrolled": "3.6k",
+    "level": "Beginner"
+  },
+  {
+    "course_id": "016",
+    "course_name": "Advanced Graph Algorithm",
+    "description": "This course examines the important problems in operating system design and implementation. The operating system provides an established, convenient, and efficient interface between user programs and the bare hardware of the computer on which they run.",
+    "category": "Data Structures",
+    "category_id": "05",
+    "instructor": {
+      "name": "Ryan jack",
+      "img": "https://images.unsplash.com/photo-1584999734482-0361aecad844?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
+    },
+    "rating": { "number": 4.5, "badge": "Excellent" },
+    "thumbnail": "https://media.istockphoto.com/photos/abstract-digital-network-communication-picture-id888477728?b=1&k=20&m=888477728&s=170667a&w=0&h=ZX15pWkxepMHlk0pg4EMwBiobixDCNmGd-FgDCGf7p8=",
+    "photo": "https://i0.wp.com/bdtechtalks.com/wp-content/uploads/2022/02/algorithm-formulation.jpg?ssl=1",
+    "state": "130$",
+    "lectures": 60,
+    "duration":"15.5hr",
+    "enrolled": "2.6k",
     "level": "Pro"
   }
 ]

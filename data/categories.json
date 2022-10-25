@@ -13,10 +13,14 @@
   },
   {
     "category_id": "04",
-    "name": "Cyber Security"
+    "name": "Cybersecurity"
   },
   {
     "category_id": "05",
     "name": "Data Structures"
+  },
+  {
+    "category_id": "06",
+    "name": "Operating Systems"
   }
 ]
