@@ -1,0 +1,22 @@
+[
+  {
+    "category_id": "01",
+    "name": "Web Development"
+  },
+  {
+    "category_id": "02",
+    "name": "Languages"
+  },
+  {
+    "category_id": "03",
+    "name": "Machine Learning"
+  },
+  {
+    "category_id": "04",
+    "name": "Cyber Security"
+  },
+  {
+    "category_id": "05",
+    "name": "Data Structures"
+  }
+]
