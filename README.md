@@ -1,7 +1,8 @@
 
 ## Server Name: TeleCourse Server
 
-### Live Link: https://telecourse-f7c6c.web.app/
+### Live Website Link: https://telecourse-f7c6c.web.app/
+### Live Server Link: https://telecourse-server.vercel.app/categories
 ### `Features:-`
 - An Online Course Platform API
 - Different types of Online Course data
