@@ -132,10 +132,10 @@
     "languages": "English",
     "quizzes": 40,
     "assessments":"yes",
-    "certificate":"yes",
+    "certificate":"no",
     "duration":"10hr",
     "enrolled": "5.1k",
-    "level": "Pro"
+    "level": "Beginner"
   },
   {
     "course_id": "007",
@@ -147,7 +147,7 @@
       "name": "Jason cherish",
       "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
     },
-    "rating": { "number": 4.7, "badge": "Excellent" },
+    "rating": { "number": 4.2, "badge": "Excellent" },
     "thumbnail": "https://www.datocms-assets.com/14946/1590686329-python-analytics-cover.png?auto=format&fit=max&w=1200",
     "photo": "https://w7.pngwing.com/pngs/441/911/png-transparent-learning-to-program-using-python-programming-language-computer-programming-the-python-papers-anthology-computer-text-computer-logo.png",
     "state": "free",
@@ -155,10 +155,10 @@
     "languages": "English",
     "quizzes": 40,
     "assessments":"yes",
-    "certificate":"yes",
+    "certificate":"no",
     "duration":"9hr",
     "enrolled": "6.1k",
-    "level": "Intermediate"
+    "level": "Beginner"
   },
   {
     "course_id": "008",
@@ -239,7 +239,7 @@
       "name": "David Deprio",
       "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
     },
-    "rating": { "number": 4.7, "badge": "Excellent" },
+    "rating": { "number": 4.4, "badge": "Excellent" },
     "thumbnail": "https://www.kaspersky.com/content/en-global/images/repository/isc/2017-images/What-is-Cyber-Security.jpg",
     "photo": "https://www.ict.eu/sites/corporate/files/images/Cyber%20security%20header_1920x1280px%20%281%29.jpg",
     "state": "15$",
@@ -262,7 +262,7 @@
       "name": "David Deprio",
       "img": "https://images.unsplash.com/photo-1535713875002-d1d0cf377fde?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
     },
-    "rating": { "number": 4.7, "badge": "Excellent" },
+    "rating": { "number": 4.8, "badge": "Excellent" },
     "thumbnail": "https://usamagzine.com/wp-content/uploads/2022/09/Data-Structures-In-Java-.jpeg",
     "photo": "https://www.techyloud.com/wp-content/uploads/2022/02/Data-Structure-assignement.jpg",
     "state": "20$",
@@ -331,7 +331,7 @@
       "name": "Arms Jyon",
       "img": "https://images.unsplash.com/photo-1628157588553-5eeea00af15c?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=580&q=80"
     },
-    "rating": { "number": 4.5, "badge": "Excellent" },
+    "rating": { "number": 4.3, "badge": "Excellent" },
     "thumbnail": "https://www.dbcomp.ie/wp-content/uploads/2021/01/network-security.jpg",
     "photo": "https://wallpapercave.com/wp/wp2691571.jpg",
     "state": "40$",
