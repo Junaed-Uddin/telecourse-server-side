@@ -8,7 +8,7 @@ const categories = require('./data/categories.json');
 const courses = require('./data/courses.json');
     
 app.get('/', (req, res) => {
-    res.send('tele course Server is Running');
+    res.send('teleCourse Server is Running');
 }); 
 
 app.get('/categories', (req, res) => {
@@ -17,6 +17,7 @@ app.get('/categories', (req, res) => {
 
 app.get('/category/:id', (req, res) => {
     const id = req.params.id;
+    console.log(id);
     const category = courses.filter(ct => ct.category_id === id);
     res.send(category);
 });
